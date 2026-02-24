@@ -55,7 +55,7 @@ const char* token = "VOTRE_ACCESS_TOKEN_THINGSBOARD";
 
 Pour obtenir votre token, créez un compte sur ThingsBoard, ajoutez un nouvel "Appareil" (Device) et copiez son Jeton d'accès (Access Token).
 
-## Installation et Déploiement
+##  Installation et Déploiement
 
 * Connectez l'ESP32 à votre ordinateur via USB.
 * Sélectionnez ESP32 Dev Module dans Outils > Type de carte.
