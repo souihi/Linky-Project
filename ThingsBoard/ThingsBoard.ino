@@ -7,7 +7,7 @@ const char* ssid = "VOTRE_WIFI";
 const char* password = "VOTRE_MOT_DE_PASSE";
 
 // --- CONFIGURATION THINGSBOARD ---
-const char* mqtt_server = "thingsboard.cloud"; // Laissez tel quel si vous utilisez le cloud officiel
+const char* mqtt_server = "eu.thingsboard.cloud"; // Laissez tel quel si vous utilisez le cloud officiel européen
 const char* token = "VOTRE_ACCESS_TOKEN";      // Le token généré par ThingsBoard pour votre appareil
 
 // --- CONFIGURATION MATERIELLE ---
